@@ -1,11 +1,18 @@
 ---
-title: "My awesome website"
+title: "My personal website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
+Get to know me a little better through my first ever website!
+Excuse the appearance, it's a work in progress!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+My cat seems very invested in my website building exercise so I guess I should introduce him first!
+
+Also learn more [about me](resume.html) here.
+
+## Mia!
+<img src="images/image.jpg" style="length:75%">
+
