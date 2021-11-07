@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-I am currently a Master of Public Health in Epidemiology and Public Health Data Science student at the Mailman School of Public Health at Columbia University in the City of New York. 
+I am currently a Master of Public Health in Epidemiology and Data Science student at the Mailman School of Public Health. 
 My professional experience include working at the Center for Infection and Immunity at Columbia University where my research interests include infectious disease epidemiology with a focus on viral infectious diseases and immunology.
 
 My detailed academic and professional experience can be found [here](resume/RT-CV_2021.pdf).
