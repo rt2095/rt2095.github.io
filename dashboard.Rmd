@@ -4,6 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    source_code: embed
 ---
 
 ```{r setup, include=FALSE}
@@ -33,7 +34,7 @@ weather_df =
   select(name, id, everything())
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart A
@@ -44,7 +45,7 @@ weather_df %>%
   plot_ly(y = ~tmax, color = ~month, type = "box", colors = "viridis")
 ```
 
-Column {data-width=350}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart B
@@ -66,4 +67,5 @@ weather_df %>%
     x = ~month, y = ~prcp, type = "violin", mode = "markers",
     color = ~month, text = ~date)
 ```
+
 
